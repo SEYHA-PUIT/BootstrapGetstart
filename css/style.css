@@ -1,0 +1,14 @@
+body {
+  font-family: "Hanuman", serif;
+}
+
+.rounded-start-end {
+  padding: 5px 10px;
+  background-color: grey; /* Light gray */
+  color: #000; /* Black text */
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 28px 0 28px 0; /* Rounded on left side */
+  width: fit-content;
+  cursor: pointer;
+}
